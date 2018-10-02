@@ -32,15 +32,6 @@
 		<item id="id-id2638681" href="pr01s05.xhtml" media-type="application/xhtml+xml"/>
 		<item id="id-id2611884" href="ch01.xhtml" media-type="application/xhtml+xml"/>
 		<item id="id-id2627310" href="ch01s02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2635343" href="ch02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2622654" href="ch02s02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2624850" href="ch02s03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2640702" href="ch03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2641220" href="ch03s02.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2642385" href="ch03s03.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2644001" href="ch03s04.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2644238" href="ch03s05.xhtml" media-type="application/xhtml+xml"/>
-		<item id="id-id2645594" href="ch03s06.xhtml" media-type="application/xhtml+xml"/>
 		<item id="id-id2645682" href="ch04.xhtml" media-type="application/xhtml+xml"/>
 		<item id="id-id2645862" href="co01.xhtml" media-type="application/xhtml+xml"/>
 		<item id="id2670620" href="images/web/epub3_0401.png" media-type="image/png"/>
@@ -67,15 +58,6 @@
 		<itemref idref="id-id2638681"/>
 		<itemref idref="id-id2611884"/>
 		<itemref idref="id-id2627310"/>
-		<itemref idref="id-id2635343"/>
-		<itemref idref="id-id2622654"/>
-		<itemref idref="id-id2624850"/>
-		<itemref idref="id-id2640702"/>
-		<itemref idref="id-id2641220"/>
-		<itemref idref="id-id2642385"/>
-		<itemref idref="id-id2644001"/>
-		<itemref idref="id-id2644238"/>
-		<itemref idref="id-id2645594"/>
 		<itemref idref="id-id2645682"/>
 		<itemref idref="id-id2645862"/>
 	</spine>
